@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Network Engineer | Learner | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=FF4500&center=true&vCenter=true&width=420&lines=🔥+Learning+•+Practicing+•+Improving+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=FF4500&center=true&vCenter=true&width=420&lines=🔥+LLearning+•+Practicing+•+Improvingg+🔥" />
 </p>
 
 
