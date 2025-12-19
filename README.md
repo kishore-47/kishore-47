@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ SKILLS
 
 ### 🌐 Networking
 - OSI & TCP/IP Models  
@@ -46,16 +46,26 @@
 - DNS, DHCP, HTTP/HTTPS  
 - Network Troubleshooting  
 
-### 💾 Storage
-- SAN & NAS  
-- RAID Levels  
-- Backup & Recovery  
-- Storage Virtualization  
-
 ### 💻 Programming
 - C (Strong Basics)
 - Java (Learning)
 - DSA (Beginner – LeetCode)
+
+ ###📊 Data Analysis
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+SQL Queries & Joins
+
+Excel (Pivot Tables, VLOOKUP)
+
+Power BI Dashboards
+
+Python (Pandas, NumPy)
+
+Data Visualization
 
 ---
 
