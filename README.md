@@ -2,8 +2,12 @@
 <h3 align="center">Aspiring Network Engineer | Learner | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=⚡+Learning+•+Practicing+•+Improving+—+Networking+%26+Storage" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=⚡+Learning+•+Practicing+•+Improving+—+Networking+%26+Storage"
+    alt="Typing SVG"
+  />
 </p>
+
 
 ---
 
