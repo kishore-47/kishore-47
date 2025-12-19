@@ -54,16 +54,11 @@
 
 ## 📊 Coding Profiles
 
-- 🔗 **LeetCode**: https://leetcode.com/your-id
-- 🔗 **GitHub**: https://github.com/your-username
+- 🔗 **LeetCode**: https://leetcode.com/u/Kishore-47/
+- 🔗 **GitHub**: https://github.com/kishore-47
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-</p>
 
 ---
 
