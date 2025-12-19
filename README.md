@@ -90,9 +90,12 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 </p>
+
 ---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="200" alt="Google Dino Game"/>
+  <img src="https://raw.githubusercontent.com/karthik947/README.md/master/assets/dino.gif" width="500"/>
 </p>
+
 
 ⭐ *Consistency beats talent. One day at a time.*
