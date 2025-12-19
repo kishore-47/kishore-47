@@ -76,6 +76,7 @@
 
 ---
 ## 🔗 Let's Connect
+***
 <p>
 <a href="mannai.kishore7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
@@ -90,7 +91,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
+***
 ---
 
 <p align="center">
@@ -98,4 +99,10 @@
 </p>
 
 
-⭐ *Consistency beats talent. One day at a time.*
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=⭐+Consistency+beats+talent.+One+day+at+a+time."
+    alt="Typing Animation"
+  />
+</p>
+
