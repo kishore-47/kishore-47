@@ -76,6 +76,7 @@
 
 ---
 ## 🔗 Let's Connect
+<p>
 <a href="mannai.kishore7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
@@ -88,7 +89,7 @@
 <a href="https://instagram.com/_kishore_47__">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
-
+</p>
 ---
 
 ⭐ *Consistency beats talent. One day at a time.*
