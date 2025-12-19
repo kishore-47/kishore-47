@@ -75,5 +75,20 @@
 
 
 ---
+## 🔗 Let's Connect
+<a href="mannai.kishore7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/kishoreanand47">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/kishore-47">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow"/>
+</a>
+<a href="https://instagram.com/_kishore_47__">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+---
 
 ⭐ *Consistency beats talent. One day at a time.*
