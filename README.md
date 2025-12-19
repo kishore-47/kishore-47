@@ -94,7 +94,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karthik947/README.md/master/assets/dino.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" width="300" alt="Dino Game Animation"/>
 </p>
 
 
