@@ -38,7 +38,7 @@
 ---
 
 ## 🛠️ Skills
-
+<centre>
 | 🌐 Networking | 💻 Programming | 📊 Data Analysis |
 |--------------|---------------|----------------|
 | OSI & TCP/IP Models | C | Python |
@@ -46,6 +46,7 @@
 | Routing & Switching | DSA | Excel |
 | DNS, DHCP, HTTP/HTTPS | Problem Solving | Power BI |
 | Network Troubleshooting | | |
+</centre>
 
 
 
