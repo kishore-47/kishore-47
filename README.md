@@ -101,7 +101,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=⭐+Consistency+beats+talent.+One+day+at+a+time."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=⭐+Consistency+beats+talent."
     alt="Typing Animation"
   />
 </p>
