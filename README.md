@@ -75,8 +75,9 @@
 
 
 ---
+
+
 ## 🔗 Let's Connect
-***
 <p>
 <a href="mannai.kishore7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
@@ -91,7 +92,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 </p>
-***
+
+
 ---
 
 <p align="center">
