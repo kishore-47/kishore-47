@@ -37,35 +37,18 @@
 
 ---
 
-## 🛠️ SKILLS
+## 🛠️ Skills
 
-### 🌐 Networking
-- OSI & TCP/IP Models  
-- Subnetting & IP Addressing  
-- Routing & Switching  
-- DNS, DHCP, HTTP/HTTPS  
-- Network Troubleshooting  
+| 🌐 Networking | 💻 Programming | 📊 Data Analysis |
+|--------------|---------------|----------------|
+| OSI & TCP/IP Models | C (Strong Basics) | Data Cleaning & Preprocessing |
+| Subnetting & IP Addressing | Java (Learning) | Exploratory Data Analysis (EDA) |
+| Routing & Switching | DSA (Beginner – LeetCode) | SQL Queries & Joins |
+| DNS, DHCP, HTTP/HTTPS | Problem Solving | Excel (Pivot Tables, VLOOKUP) |
+| Network Troubleshooting | | Power BI Dashboards |
+| | | Python (Pandas, NumPy) |
+| | | Data Visualization |
 
-### 💻 Programming
-- C (Strong Basics)
-- Java (Learning)
-- DSA (Beginner – LeetCode)
-
- ###📊 Data Analysis
-
-Data Cleaning & Preprocessing
-
-Exploratory Data Analysis (EDA)
-
-SQL Queries & Joins
-
-Excel (Pivot Tables, VLOOKUP)
-
-Power BI Dashboards
-
-Python (Pandas, NumPy)
-
-Data Visualization
 
 ---
 
