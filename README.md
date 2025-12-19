@@ -3,8 +3,9 @@
 
 <p align="center">
   <b style="font-size:20px;">Learning • Practicing • Improving</b><br/>
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/5xtDarIN81U0KvlnzKo/giphy.gif" width="300" />
 </p>
+
 
 
 
