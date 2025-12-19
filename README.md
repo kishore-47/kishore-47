@@ -36,7 +36,6 @@
 </p>
 
 ---
-***
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -55,9 +54,6 @@
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
-***
----
-
 ## 🛠️ Skills
 
 | 🌐 Networking | 💻 Programming | 📊 Data Analysis |
@@ -72,13 +68,21 @@
 
 
 ---
+## 🛠️ Skills
 
+| 🌐 Networking | 💻 Programming | 📊 Data Analysis |
+|--------------|---------------|----------------|
+| OSI & TCP/IP Models | C | Python |
+| Subnetting & IP Addressing | Java | SQL |
+| Routing & Switching | DSA | Excel |
+| DNS, DHCP, HTTP/HTTPS | Problem Solving | Power BI |
+| Network Troubleshooting | | |
+
+---
 ## 📊 Coding Profiles
 
 - 🔗 **LeetCode**: https://leetcode.com/u/Kishore-47/
 - 🔗 **GitHub**: https://github.com/kishore-47
-
----
 
 
 ---
