@@ -9,12 +9,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently learning **Computer Networking, Storage Systems & DSA**
+- 💡 **Currently learning:Networking,FullStack Development,Data Analyst,Data Structures,and Java**
 - 💻 Practicing **LeetCode (C / Java)**
-- 🎯 Preparing for **Networking & Storage Development roles (HCL focused)**
-- 🤝 Looking to collaborate on **networking labs & beginner open-source**
-- 💬 Ask me about **OSI, TCP/IP, Subnetting, Routing**
-- 📫 Reach me at: **your-email@gmail.com**
+- 🎯 **Learning through hands-on labs and real-world scenarios**
+- 💬 **Believe in consistency, discipline, and daily improvement**
+- 📫 Reach me at: **mannai.kishore7@gmail.com**
 
 ---
 
