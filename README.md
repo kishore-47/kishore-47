@@ -2,9 +2,10 @@
 <h3 align="center">Aspiring Network Engineer | Learner | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120"/><br/>
-  <b style="font-size:20px;">Learning • Practicing • Improving</b>
+  <b style="font-size:20px;">Learning • Practicing • Improving</b><br/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="300"/>
 </p>
+
 
 
 ---
