@@ -2,9 +2,12 @@
 <h3 align="center">Aspiring Network Engineer | Learner | Tech Enthusiast</h3>
 
 <p align="center">
-  <b style="font-size:20px;">Learning • Practicing • Improving</b><br/>
-  <img src="https://media.giphy.com/media/5xtDarIN81U0KvlnzKo/giphy.gif" width="300" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=FF4500&center=true&vCenter=true&width=650&lines=🔥+Learning+•+Practicing+•+Improving+🔥"
+    alt="Typing Animation"
+  />
 </p>
+
 
 
 
