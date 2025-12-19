@@ -41,13 +41,12 @@
 
 | 🌐 Networking | 💻 Programming | 📊 Data Analysis |
 |--------------|---------------|----------------|
-| OSI & TCP/IP Models | C (Strong Basics) | Data Cleaning & Preprocessing |
+| OSI & TCP/IP Models | C (Strong Basics) | Data Cleaning |
 | Subnetting & IP Addressing | Java (Learning) | Exploratory Data Analysis (EDA) |
-| Routing & Switching | DSA (Beginner – LeetCode) | SQL Queries & Joins |
-| DNS, DHCP, HTTP/HTTPS | Problem Solving | Excel (Pivot Tables, VLOOKUP) |
-| Network Troubleshooting | | Power BI Dashboards |
+| Routing & Switching | DSA (Beginner – LeetCode) | SQL Queries |
+| DNS, DHCP, HTTP/HTTPS | Problem Solving | Excel (Pivot Tables) |
+| Network Troubleshooting | | Power BI |
 | | | Python (Pandas, NumPy) |
-| | | Data Visualization |
 
 
 ---
