@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋, I'm Kishore</h1>
+<h1 align="center">Hey 👋, I'm Kishore Anand</h1>
 <h3 align="center">Aspiring Network Engineer | Learner | Tech Enthusiast</h3>
 
 <p align="center">
-🚀 Crafting my career in Networking & Storage Development
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=⚡+Learning+•+Practicing+•+Improving+—+Networking+%26+Storage" />
 </p>
 
 ---
