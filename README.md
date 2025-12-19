@@ -17,7 +17,7 @@
 ## 🙋‍♂️ About Me
 
 - 💡 **Currently learning:Networking,FullStack Development,Data Analyst,Data Structures,and Java**
-- 💻 Practicing **LeetCode (C / Java)**
+- 💻 Practicing in **LeetCode (C / Java)**
 - 🎯 **Learning through hands-on labs and real-world scenarios**
 - 💬 **Believe in consistency, discipline, and daily improvement**
 - 📫 Reach me at: **mannai.kishore7@gmail.com**
