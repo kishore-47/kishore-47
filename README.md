@@ -91,5 +91,8 @@
 </a>
 </p>
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="200" alt="Google Dino Game"/>
+</p>
 
 ⭐ *Consistency beats talent. One day at a time.*
