@@ -1,151 +1,243 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Kishore%20Anand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Network%20Engineer%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=KISHORE%20ANAND&fontSize=62&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Network%20Engineer%20·%20Developer%20·%20Problem%20Solver&descAlignY=65&descAlign=50&descSize=16&stroke=64748b&strokeWidth=1" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=FF4500&center=true&vCenter=true&width=700&lines=🔥+Network+Engineer+in+the+Making;💻+Full+Stack+Developer+%7C+DSA+Grinder;📊+Data+Analyst+%7C+Lifelong+Learner;⚡+Consistency+•+Discipline+•+Growth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+networks+that+connect+the+world.;Writing+code+that+solves+real+problems.;Learning+something+new+every+single+day.)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-## 🙋‍♂️ About Me
+<br/>
 
-<img align="right" src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" width="220" alt="Dino"/>
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-Name     : Kishore Anand
-Role     : Aspiring Network Engineer & Developer
-Focus    : Networking | Full Stack | DSA | Data Analysis
-Languages: C · Java · Python · SQL
-Mindset  : Consistency beats talent. Every. Single. Day.
-Email    : mannai.kishore7@gmail.com
+## `$ whoami`
+
+```json
+{
+  "name"     : "Kishore Anand",
+  "role"     : "Aspiring Network Engineer",
+  "location" : "India",
+  "focus"    : [
+    "Computer Networking",
+    "Full Stack Development",
+    "Data Analysis",
+    "DSA & Problem Solving"
+  ],
+  "languages": ["C", "Java", "Python", "SQL"],
+  "practice" : "LeetCode · Daily",
+  "contact"  : "mannai.kishore7@gmail.com",
+  "motto"    : "Consistency beats talent."
+}
 ```
 
-- 🌐 Deep-diving into **Computer Networks** and real-world lab scenarios
-- 💻 Grinding **LeetCode** daily in **C** and **Java**
-- 📊 Building data skills with **Power BI**, **Excel**, and **SQL**
-- 🛠️ Developing full-stack projects with **Node.js + Express + SQLite**
-- 🎯 Goal: Become a skilled Network Engineer with strong dev foundations
+</td>
+<td width="45%" valign="top" align="center">
 
-<br clear="right"/>
+<br/>
 
----
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kishore-47?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/Kishore-47/)
 
-## 🚀 Currently Learning
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=yellow)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack_Dev-000000?style=for-the-badge&logo=nodedotjs&logoColor=green)
-
-</div>
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+<br/>
+
+## ◈ &nbsp;Technology Stack
+
+<br/>
 
 <div align="center">
 
-**Languages**
+**— Core Languages —**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0a0a0a)&nbsp;
+![Java](https://img.shields.io/badge/Java-c0392b?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0a0a)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a0a0a)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0a0a0a)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0a0a0a)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0a0a)
 
-**Backend & Database**
+<br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**— Web & Backend —**
 
-**Networking & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0a0a0a)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=black&labelColor=0a0a0a)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=0a0a0a)
 
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br/>
 
-**Data & Design**
+**— Networking & Infrastructure —**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=0a0a0a)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0a0a0a)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0a0a0a)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0a0a0a)
+
+<br/>
+
+**— Data & Visualization —**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0a0a0a)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=0a0a0a)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0a0a0a)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white&labelColor=0a0a0a)
 
 </div>
+
+<br/>
 
 ---
 
-## 🧠 Skills Overview
+<br/>
+
+## ◈ &nbsp;Expertise
+
+<br/>
 
 <div align="center">
 
-| 🌐 Networking | 💻 Programming | 📊 Data Analysis |
-|:---:|:---:|:---:|
-| OSI & TCP/IP Models | C & Java | Python & SQL |
-| Subnetting & IP Addressing | Data Structures & Algorithms | Microsoft Excel |
-| Routing & Switching | Problem Solving | Power BI |
-| DNS, DHCP, HTTP/HTTPS | Object-Oriented Programming | Data Visualization |
-| Network Troubleshooting | LeetCode Practice | Analytical Thinking |
+<table border="0">
+<thead>
+<tr>
+<th align="center">🌐 &nbsp; Networking</th>
+<th align="center">💻 &nbsp; Programming</th>
+<th align="center">📊 &nbsp; Data Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">
+
+- OSI & TCP/IP Models
+- Subnetting & IP Addressing
+- Routing Protocols (RIP, OSPF)
+- Switching & VLANs
+- DNS, DHCP, HTTP/HTTPS
+- Network Troubleshooting
+
+</td>
+<td align="left">
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving (LeetCode)
+- Full Stack Web Development
+- RESTful API Design
+- Version Control with Git
+
+</td>
+<td align="left">
+
+- Python for Data Analysis
+- SQL Querying & Reporting
+- Excel — PivotTables & Charts
+- Power BI Dashboards
+- Data Visualization
+- Analytical Thinking
+
+</td>
+</tr>
+</tbody>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
-## 📈 GitHub Stats
+<br/>
+
+## ◈ &nbsp;GitHub Analytics
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishore-47&show_icons=true&theme=radical&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-47&layout=compact&theme=radical&hide_border=true&title_color=FF4500&text_color=ffffff&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kishore-47&show_icons=true&hide_border=true&title_color=64748b&icon_color=94a3b8&text_color=cbd5e1&bg_color=0d1117&ring_color=334155&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-47&layout=compact&hide_border=true&title_color=64748b&text_color=cbd5e1&bg_color=0d1117&langs_count=6" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-47&theme=radical&hide_border=true&stroke=FF4500&ring=FF4500&fire=FF6347&currStreakLabel=FF4500&background=0d1117" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-47&hide_border=true&background=0d1117&stroke=1e293b&ring=475569&fire=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=64748b&sideLabels=64748b&dates=475569" width="500"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-47&bg_color=0d1117&color=64748b&line=475569&point=94a3b8&area=true&area_color=1e293b&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
 
 ---
 
-## 🏆 Coding Profiles
+<br/>
+
+## ◈ &nbsp;Connect
+
+<br/>
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Kishore-47/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishore-47)
+<a href="mailto:mannai.kishore7@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kishoreanand47">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Kishore-47/">
+<img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&label=&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/_kishore_47__">
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&label=&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/kishore-47">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&label=&labelColor=0d1117"/>
+</a>
 
 </div>
+
+<br/>
 
 ---
 
-## 🔗 Let's Connect
+<br/>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannai.kishore7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishoreanand47)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/kishore-47)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kishore_47__)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=999999&color=475569&center=true&vCenter=true&width=500&lines=%22+The+expert+in+anything+was+once+a+beginner.+%22)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kishore-47&style=flat-square&color=475569&label=Profile+Views&abbreviated=true)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=⭐+Consistency+beats+talent.;🔥+Show+up+every+day.;💡+Build.+Break.+Learn.+Repeat.)](https://git.io/typing-svg)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>
