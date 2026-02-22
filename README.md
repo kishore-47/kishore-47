@@ -1,12 +1,43 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:111827,100:1f2937&height=320&section=header&text=KISHORE%20ANAND&fontSize=70&fontColor=F9FAFB&animation=fadeIn&fontAlignY=42&desc=Network%20Engineer%20in%20the%20Making%20%20%7C%20%20Developer%20%20%7C%20%20Problem%20Solver&descAlignY=62&descAlign=50&descSize=15&fontAlign=50&stroke=374151&strokeWidth=2" width="100%"/>
+
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=KISHORE%20ANAND&fontSize=62&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Network%20Engineer%20·%20Developer%20·%20Problem%20Solver&descAlignY=65&descAlign=50&descSize=16&stroke=64748b&strokeWidth=1" width="100%"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1500&color=6B7280&center=true&vCenter=true&width=700&lines=%2F%2F+Packets+routed.+Problems+solved.+Code+shipped.;%2F%2F+OSI+%E2%86%92+TCP%2FIP+%E2%86%92+Real+World;%2F%2F+Daily+LeetCode+%7C+Java+%7C+C+%7C+Python;%2F%2F+Consistency+%3E+Talent.+Always.)](https://git.io/typing-svg)
+
 </div>
+
+<br/>
+
+<!-------------------------------- ABOUT -------------------------------->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishore-47&show_icons=true&hide_border=true&bg_color=0d1117&title_color=374151&icon_color=4B5563&text_color=6B7280&ring_color=1F2937&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-47&hide_border=true&background=0d1117&stroke=1F2937&ring=374151&fire=6B7280&currStreakNum=F9FAFB&sideNums=9CA3AF&currStreakLabel=4B5563&sideLabels=4B5563&dates=374151" height="165"/>
+</div>
+
+<br/>
+
+---
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+networks+that+connect+the+world.;Writing+code+that+solves+real+problems.;Learning+something+new+every+single+day.)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   NAME      →   Kishore Anand                                        ║
+║   STATUS    →   Aspiring Network Engineer & Developer                ║
+║   FOCUS     →   Networking  ·  Full Stack  ·  DSA  ·  Data          ║
+║   WEAPONS   →   C  ·  Java  ·  Python  ·  SQL  ·  Node.js           ║
+║   ARENA     →   LeetCode  (daily grind, no days off)                 ║
+║   CONTACT   →   mannai.kishore7@gmail.com                            ║
+║   CREED     →   "Consistency beats talent."                          ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -16,88 +47,75 @@
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
-
-## `$ whoami`
-
-```json
-{
-  "name"     : "Kishore Anand",
-  "role"     : "Aspiring Network Engineer",
-  "location" : "India",
-  "focus"    : [
-    "Computer Networking",
-    "Full Stack Development",
-    "Data Analysis",
-    "DSA & Problem Solving"
-  ],
-  "languages": ["C", "Java", "Python", "SQL"],
-  "practice" : "LeetCode · Daily",
-  "contact"  : "mannai.kishore7@gmail.com",
-  "motto"    : "Consistency beats talent."
-}
-```
-
-</td>
-<td width="45%" valign="top" align="center">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> &nbsp; Stack
 
 <br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kishore-47?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/Kishore-47/)
+<div align="center">
 
+<table border="0" cellpadding="8">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="44"/><br/>
+<sub><b>C</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="44"/><br/>
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="44"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="44"/><br/>
+<sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="44"/><br/>
+<sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44"/><br/>
+<sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="44"/><br/>
+<sub><b>Express</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="44"/><br/>
+<sub><b>SQLite</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="44"/><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44"/><br/>
+<sub><b>Linux</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44"/><br/>
+<sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="44"/><br/>
+<sub><b>Figma</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="44"/><br/>
+<sub><b>SQL</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cisco&theme=dark" width="44"/><br/>
+<sub><b>Cisco</b></sub>
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-<br/>
-
-## ◈ &nbsp;Technology Stack
-
-<br/>
-
-<div align="center">
-
-**— Core Languages —**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0a0a0a)&nbsp;
-![Java](https://img.shields.io/badge/Java-c0392b?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0a0a)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a0a0a)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0a0a0a)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0a0a0a)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0a0a)
-
-<br/>
-
-**— Web & Backend —**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0a0a0a)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=black&labelColor=0a0a0a)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=0a0a0a)
-
-<br/>
-
-**— Networking & Infrastructure —**
-
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=0a0a0a)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0a0a0a)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0a0a0a)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0a0a0a)
-
-<br/>
-
-**— Data & Visualization —**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0a0a0a)&nbsp;
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=0a0a0a)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0a0a0a)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white&labelColor=0a0a0a)
-
 </div>
 
 <br/>
@@ -106,54 +124,60 @@
 
 <br/>
 
-## ◈ &nbsp;Expertise
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="28"/> &nbsp; Domain Knowledge
 
 <br/>
 
 <div align="center">
 
 <table border="0">
-<thead>
 <tr>
-<th align="center">🌐 &nbsp; Networking</th>
-<th align="center">💻 &nbsp; Programming</th>
-<th align="center">📊 &nbsp; Data Analysis</th>
+<td valign="top" width="33%">
+
+**`[ NETWORKING ]`**
+
+```
+  OSI & TCP/IP Models
+  Subnetting & CIDR
+  Routing & Switching
+  VLANs & Trunking
+  DNS · DHCP · HTTP/S
+  Packet Tracer Labs
+  Network Troubleshooting
+```
+
+</td>
+<td valign="top" width="33%">
+
+**`[ PROGRAMMING ]`**
+
+```
+  Data Structures
+  Algorithms & Complexity
+  OOP Principles
+  REST API Design
+  Full Stack (MERN-lite)
+  LeetCode Problem Solving
+  Version Control · Git
+```
+
+</td>
+<td valign="top" width="33%">
+
+**`[ DATA ]`**
+
+```
+  Python (Pandas, NumPy)
+  SQL Queries & Joins
+  Excel & PivotTables
+  Power BI Dashboards
+  Data Visualization
+  Analytical Reporting
+  KPI Tracking
+```
+
+</td>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">
-
-- OSI & TCP/IP Models
-- Subnetting & IP Addressing
-- Routing Protocols (RIP, OSPF)
-- Switching & VLANs
-- DNS, DHCP, HTTP/HTTPS
-- Network Troubleshooting
-
-</td>
-<td align="left">
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving (LeetCode)
-- Full Stack Web Development
-- RESTful API Design
-- Version Control with Git
-
-</td>
-<td align="left">
-
-- Python for Data Analysis
-- SQL Querying & Reporting
-- Excel — PivotTables & Charts
-- Power BI Dashboards
-- Data Visualization
-- Analytical Thinking
-
-</td>
-</tr>
-</tbody>
 </table>
 
 </div>
@@ -164,27 +188,47 @@
 
 <br/>
 
-## ◈ &nbsp;GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/> &nbsp; Coding Arena
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishore-47&show_icons=true&hide_border=true&title_color=64748b&icon_color=94a3b8&text_color=cbd5e1&bg_color=0d1117&ring_color=334155&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-47&layout=compact&hide_border=true&title_color=64748b&text_color=cbd5e1&bg_color=0d1117&langs_count=6" height="170"/>
+[![LeetCode](https://leetcard.jacoblin.cool/Kishore-47?theme=dark&font=JetBrains+Mono&border=0&radius=4&ext=heatmap)](https://leetcode.com/u/Kishore-47/)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Kishore-47/">
+    <img src="https://img.shields.io/badge/LeetCode-%40Kishore--47-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/kishore-47">
+    <img src="https://img.shields.io/badge/GitHub-%40kishore--47-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"/>
+  </a>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &nbsp; Activity
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-47&bg_color=0d1117&color=374151&line=4B5563&point=9CA3AF&area=true&area_color=1F2937&hide_border=true&radius=4" width="94%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-47&hide_border=true&background=0d1117&stroke=1e293b&ring=475569&fire=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=64748b&sideLabels=64748b&dates=475569" width="500"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-47&bg_color=0d1117&color=64748b&line=475569&point=94a3b8&area=true&area_color=1e293b&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-47&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=4B5563&text_color=6B7280&langs_count=6" height="200"/>
 
 </div>
 
@@ -194,30 +238,24 @@
 
 <br/>
 
-## ◈ &nbsp;Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28"/> &nbsp; Let's Connect
 
 <br/>
 
 <div align="center">
 
 <a href="mailto:mannai.kishore7@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/-mannai.kishore7%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827"/>
 </a>
-&nbsp;
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/kishoreanand47">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Kishore-47/">
-<img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&label=&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/-kishoreanand47-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/_kishore_47__">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&label=&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://github.com/kishore-47">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&label=&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/-_kishore_47__-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=111827"/>
 </a>
 
 </div>
@@ -230,14 +268,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=999999&color=475569&center=true&vCenter=true&width=500&lines=%22+The+expert+in+anything+was+once+a+beginner.+%22)](https://git.io/typing-svg)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20expert%20in%20anything%20was%20once%20a%20beginner.&author=Helen%20Hayes" width="600"/>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kishore-47&style=flat-square&color=475569&label=Profile+Views&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=kishore-47&style=flat-square&color=374151&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:111827,100:0d1117&height=120&section=footer&reversal=true" width="100%"/>
